@@ -1,0 +1,54 @@
+section.slider.d-flex.w-100 {
+    background-image: url(./img/BG.png);
+    background-position: center;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 118px;
+}
+.paragraph-slider {
+    color: #6E6E6E;
+    top: 305px;
+    width: 47%;
+}
+.photo-women-slider{
+    z-index: 9;
+}
+.link-collection{
+    color: #F9FCFF !important;
+    box-shadow: #A7AFB9 5px 5px, #A7AFB9 8px 8px ;
+    background: #191C20 !important;
+    top: 380px;
+}
+.back {
+    right: -11px;
+    top: 347px;
+    z-index: 0;
+}
+/* gallery style  */
+.gallery{
+    background-image: url('./img/backCollectuon.png');
+    background-position: center;
+    width: 676px;
+    height: 250px;
+    left: -30px;
+}
+
+.gallery .photo-gallery:nth-child(1){
+    padding-left: 22px !important;
+    top: -122px;
+}
+.gallery .photo-gallery:nth-child(2) {
+    left: 270px;
+    top: -84px;
+}
+.gallery .photo-gallery:nth-child(3) {
+    left: 518px;
+    top: -51px;
+}
+.link-gallery{
+    font-size: 11px !important;
+}
+/* product style */
+.product{
+    background: #E8E8E8;
+}
