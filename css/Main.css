@@ -29,19 +29,13 @@ p, h1, h2, h3, h4, h5, h6{
     background-size: cover;
     direction: ltr !important;
   }
+  .container-fluid-jovani{
+    width: 100%;
+    padding-right: 4% !important;
+    padding-left: 4% !important;
+    margin-right: auto;
+    margin-left: auto;
+  }
   a{
     text-decoration: none !important;
-    color: #000000;
-  }
-.W-80{
-  width: 80%;
-}
-  /* responsive */
-  @media only screen and (max-width:600px){
-
-  }
-  @media only screen and (min-width:768px) and (max-width: 1024px){
-
-  }
-  @media only screen and (min-width:820px) and (max-width: 1180px){
   }
